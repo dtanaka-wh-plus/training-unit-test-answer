@@ -8,6 +8,3 @@ MkWebの新人研修用のサンプルコードです。
 # バージョン
 
 PHP: 7.3系
- 
-
-# training-unit-test-answer
