@@ -10,3 +10,4 @@ MkWebの新人研修用のサンプルコードです。
 PHP: 7.3系
  
 
+# training-unit-test-answer
